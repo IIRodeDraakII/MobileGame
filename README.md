@@ -3,5 +3,5 @@ Game Development &amp; Design minor assignment
 
 
 Designer: Kira ritzi
-Artists: Benta  -  Megan boender
+Artists: Bente flohr  -  Megan boender
 Developers: Joy Heinze - Jessey de Man
